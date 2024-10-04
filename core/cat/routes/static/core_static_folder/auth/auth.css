@@ -38,4 +38,12 @@ button:hover {
 
 .error-message {
     color: red;
+    font-weight: bold;
+    background-color: #ffe6e6; /* Light red background */
+    padding: 10px;
+    border: 1px solid red;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: 1.2em; /* Larger font size for visibility */
+    text-align: center; /* Center the text */
 }
